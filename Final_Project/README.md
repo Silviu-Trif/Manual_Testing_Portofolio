@@ -4,7 +4,7 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 
 Application under test: https://opensource-demo.orangehrmlive.com
 
-API Documentation: 
+API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 
 **The final project will be split into 2 sections: [Testing section](https://github.com/Silviu-Trif/Manual_Testing_Portofolio/blob/main/Final_Project/README.md#1-testing-section) and [SQL section](https://github.com/Silviu-Trif/Manual_Testing_Portofolio/blob/main/Final_Project/README.md#2-sql-section) and [API TESTING](https://github.com/Silviu-Trif/Manual_Testing_Portofolio/blob/main/Final_Project/README.md#3-api-section).**
 
